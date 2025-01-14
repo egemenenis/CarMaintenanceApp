@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\egemen.ertas\\Desktop\\CarMaintenanceApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83682089-0933-4F4C-BB61-7A0F0C2A3D39}|CarMaintenanceApp\\CarMaintenanceApp.csproj|c:\\users\\egemen.ertas\\desktop\\carmaintenanceapp\\carmaintenanceapp\\models\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83682089-0933-4F4C-BB61-7A0F0C2A3D39}|CarMaintenanceApp\\CarMaintenanceApp.csproj|solutionrelative:carmaintenanceapp\\models\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83682089-0933-4F4C-BB61-7A0F0C2A3D39}|CarMaintenanceApp\\CarMaintenanceApp.csproj|c:\\users\\egemen.ertas\\desktop\\carmaintenanceapp\\carmaintenanceapp\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83682089-0933-4F4C-BB61-7A0F0C2A3D39}|CarMaintenanceApp\\CarMaintenanceApp.csproj|solutionrelative:carmaintenanceapp\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83682089-0933-4F4C-BB61-7A0F0C2A3D39}|CarMaintenanceApp\\CarMaintenanceApp.csproj|c:\\users\\egemen.ertas\\desktop\\carmaintenanceapp\\carmaintenanceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83682089-0933-4F4C-BB61-7A0F0C2A3D39}|CarMaintenanceApp\\CarMaintenanceApp.csproj|solutionrelative:carmaintenanceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83682089-0933-4F4C-BB61-7A0F0C2A3D39}|CarMaintenanceApp\\CarMaintenanceApp.csproj|c:\\users\\egemen.ertas\\desktop\\carmaintenanceapp\\carmaintenanceapp\\services\\suvbrandingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83682089-0933-4F4C-BB61-7A0F0C2A3D39}|CarMaintenanceApp\\CarMaintenanceApp.csproj|solutionrelative:carmaintenanceapp\\services\\suvbrandingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83682089-0933-4F4C-BB61-7A0F0C2A3D39}|CarMaintenanceApp\\CarMaintenanceApp.csproj|c:\\users\\egemen.ertas\\desktop\\carmaintenanceapp\\carmaintenanceapp\\services\\sedanbrandingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83682089-0933-4F4C-BB61-7A0F0C2A3D39}|CarMaintenanceApp\\CarMaintenanceApp.csproj|solutionrelative:carmaintenanceapp\\services\\sedanbrandingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83682089-0933-4F4C-BB61-7A0F0C2A3D39}|CarMaintenanceApp\\CarMaintenanceApp.csproj|c:\\users\\egemen.ertas\\desktop\\carmaintenanceapp\\carmaintenanceapp\\services\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83682089-0933-4F4C-BB61-7A0F0C2A3D39}|CarMaintenanceApp\\CarMaintenanceApp.csproj|solutionrelative:carmaintenanceapp\\services\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83682089-0933-4F4C-BB61-7A0F0C2A3D39}|CarMaintenanceApp\\CarMaintenanceApp.csproj|c:\\users\\egemen.ertas\\desktop\\carmaintenanceapp\\carmaintenanceapp\\services\\icarobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83682089-0933-4F4C-BB61-7A0F0C2A3D39}|CarMaintenanceApp\\CarMaintenanceApp.csproj|solutionrelative:carmaintenanceapp\\services\\icarobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83682089-0933-4F4C-BB61-7A0F0C2A3D39}|CarMaintenanceApp\\CarMaintenanceApp.csproj|c:\\users\\egemen.ertas\\desktop\\carmaintenanceapp\\carmaintenanceapp\\services\\icarfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83682089-0933-4F4C-BB61-7A0F0C2A3D39}|CarMaintenanceApp\\CarMaintenanceApp.csproj|solutionrelative:carmaintenanceapp\\services\\icarfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83682089-0933-4F4C-BB61-7A0F0C2A3D39}|CarMaintenanceApp\\CarMaintenanceApp.csproj|c:\\users\\egemen.ertas\\desktop\\carmaintenanceapp\\carmaintenanceapp\\services\\ibrandingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83682089-0933-4F4C-BB61-7A0F0C2A3D39}|CarMaintenanceApp\\CarMaintenanceApp.csproj|solutionrelative:carmaintenanceapp\\services\\ibrandingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83682089-0933-4F4C-BB61-7A0F0C2A3D39}|CarMaintenanceApp\\CarMaintenanceApp.csproj|c:\\users\\egemen.ertas\\desktop\\carmaintenanceapp\\carmaintenanceapp\\services\\commandinvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83682089-0933-4F4C-BB61-7A0F0C2A3D39}|CarMaintenanceApp\\CarMaintenanceApp.csproj|solutionrelative:carmaintenanceapp\\services\\commandinvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83682089-0933-4F4C-BB61-7A0F0C2A3D39}|CarMaintenanceApp\\CarMaintenanceApp.csproj|c:\\users\\egemen.ertas\\desktop\\carmaintenanceapp\\carmaintenanceapp\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83682089-0933-4F4C-BB61-7A0F0C2A3D39}|CarMaintenanceApp\\CarMaintenanceApp.csproj|solutionrelative:carmaintenanceapp\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83682089-0933-4F4C-BB61-7A0F0C2A3D39}|CarMaintenanceApp\\CarMaintenanceApp.csproj|c:\\users\\egemen.ertas\\desktop\\carmaintenanceapp\\carmaintenanceapp\\services\\carownerobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83682089-0933-4F4C-BB61-7A0F0C2A3D39}|CarMaintenanceApp\\CarMaintenanceApp.csproj|solutionrelative:carmaintenanceapp\\services\\carownerobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83682089-0933-4F4C-BB61-7A0F0C2A3D39}|CarMaintenanceApp\\CarMaintenanceApp.csproj|c:\\users\\egemen.ertas\\desktop\\carmaintenanceapp\\carmaintenanceapp\\services\\carmaintenancecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83682089-0933-4F4C-BB61-7A0F0C2A3D39}|CarMaintenanceApp\\CarMaintenanceApp.csproj|solutionrelative:carmaintenanceapp\\services\\carmaintenancecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83682089-0933-4F4C-BB61-7A0F0C2A3D39}|CarMaintenanceApp\\CarMaintenanceApp.csproj|c:\\users\\egemen.ertas\\desktop\\carmaintenanceapp\\carmaintenanceapp\\services\\carmaintenance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83682089-0933-4F4C-BB61-7A0F0C2A3D39}|CarMaintenanceApp\\CarMaintenanceApp.csproj|solutionrelative:carmaintenanceapp\\services\\carmaintenance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83682089-0933-4F4C-BB61-7A0F0C2A3D39}|CarMaintenanceApp\\CarMaintenanceApp.csproj|c:\\users\\egemen.ertas\\desktop\\carmaintenanceapp\\carmaintenanceapp\\services\\carfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83682089-0933-4F4C-BB61-7A0F0C2A3D39}|CarMaintenanceApp\\CarMaintenanceApp.csproj|solutionrelative:carmaintenanceapp\\services\\carfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83682089-0933-4F4C-BB61-7A0F0C2A3D39}|CarMaintenanceApp\\CarMaintenanceApp.csproj|c:\\users\\egemen.ertas\\desktop\\carmaintenanceapp\\carmaintenanceapp\\models\\suv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83682089-0933-4F4C-BB61-7A0F0C2A3D39}|CarMaintenanceApp\\CarMaintenanceApp.csproj|solutionrelative:carmaintenanceapp\\models\\suv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83682089-0933-4F4C-BB61-7A0F0C2A3D39}|CarMaintenanceApp\\CarMaintenanceApp.csproj|c:\\users\\egemen.ertas\\desktop\\carmaintenanceapp\\carmaintenanceapp\\models\\sedan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83682089-0933-4F4C-BB61-7A0F0C2A3D39}|CarMaintenanceApp\\CarMaintenanceApp.csproj|solutionrelative:carmaintenanceapp\\models\\sedan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICarFactory.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\CarMaintenanceApp\\CarMaintenanceApp\\Services\\ICarFactory.cs",
+              "RelativeDocumentMoniker": "CarMaintenanceApp\\Services\\ICarFactory.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\CarMaintenanceApp\\CarMaintenanceApp\\Services\\ICarFactory.cs",
+              "RelativeToolTip": "CarMaintenanceApp\\Services\\ICarFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T10:41:29.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CommandInvoker.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\CarMaintenanceApp\\CarMaintenanceApp\\Services\\CommandInvoker.cs",
+              "RelativeDocumentMoniker": "CarMaintenanceApp\\Services\\CommandInvoker.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\CarMaintenanceApp\\CarMaintenanceApp\\Services\\CommandInvoker.cs",
+              "RelativeToolTip": "CarMaintenanceApp\\Services\\CommandInvoker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T10:41:23.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\CarMaintenanceApp\\CarMaintenanceApp\\Services\\CarService.cs",
+              "RelativeDocumentMoniker": "CarMaintenanceApp\\Services\\CarService.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\CarMaintenanceApp\\CarMaintenanceApp\\Services\\CarService.cs",
+              "RelativeToolTip": "CarMaintenanceApp\\Services\\CarService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T10:41:19.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CarOwnerObserver.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\CarMaintenanceApp\\CarMaintenanceApp\\Services\\CarOwnerObserver.cs",
+              "RelativeDocumentMoniker": "CarMaintenanceApp\\Services\\CarOwnerObserver.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\CarMaintenanceApp\\CarMaintenanceApp\\Services\\CarOwnerObserver.cs",
+              "RelativeToolTip": "CarMaintenanceApp\\Services\\CarOwnerObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T08:17:33.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICarObserver.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\CarMaintenanceApp\\CarMaintenanceApp\\Services\\ICarObserver.cs",
+              "RelativeDocumentMoniker": "CarMaintenanceApp\\Services\\ICarObserver.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\CarMaintenanceApp\\CarMaintenanceApp\\Services\\ICarObserver.cs",
+              "RelativeToolTip": "CarMaintenanceApp\\Services\\ICarObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T08:17:21.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICarService.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\CarMaintenanceApp\\CarMaintenanceApp\\Services\\ICarService.cs",
+              "RelativeDocumentMoniker": "CarMaintenanceApp\\Services\\ICarService.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\CarMaintenanceApp\\CarMaintenanceApp\\Services\\ICarService.cs",
+              "RelativeToolTip": "CarMaintenanceApp\\Services\\ICarService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T08:06:58.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SedanBrandingStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\CarMaintenanceApp\\CarMaintenanceApp\\Services\\SedanBrandingStrategy.cs",
+              "RelativeDocumentMoniker": "CarMaintenanceApp\\Services\\SedanBrandingStrategy.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\CarMaintenanceApp\\CarMaintenanceApp\\Services\\SedanBrandingStrategy.cs",
+              "RelativeToolTip": "CarMaintenanceApp\\Services\\SedanBrandingStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T08:16:19.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SUVBrandingStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\CarMaintenanceApp\\CarMaintenanceApp\\Services\\SUVBrandingStrategy.cs",
+              "RelativeDocumentMoniker": "CarMaintenanceApp\\Services\\SUVBrandingStrategy.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\CarMaintenanceApp\\CarMaintenanceApp\\Services\\SUVBrandingStrategy.cs",
+              "RelativeToolTip": "CarMaintenanceApp\\Services\\SUVBrandingStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T08:16:34.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\CarMaintenanceApp\\CarMaintenanceApp\\Program.cs",
+              "RelativeDocumentMoniker": "CarMaintenanceApp\\Program.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\CarMaintenanceApp\\CarMaintenanceApp\\Program.cs",
+              "RelativeToolTip": "CarMaintenanceApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T08:08:56.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\CarMaintenanceApp\\CarMaintenanceApp\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "CarMaintenanceApp\\Controllers\\CarController.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\CarMaintenanceApp\\CarMaintenanceApp\\Controllers\\CarController.cs",
+              "RelativeToolTip": "CarMaintenanceApp\\Controllers\\CarController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T10:40:36.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICar.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\CarMaintenanceApp\\CarMaintenanceApp\\Models\\ICar.cs",
+              "RelativeDocumentMoniker": "CarMaintenanceApp\\Models\\ICar.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\CarMaintenanceApp\\CarMaintenanceApp\\Models\\ICar.cs",
+              "RelativeToolTip": "CarMaintenanceApp\\Models\\ICar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T08:06:32.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CarMaintenanceCommand.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\CarMaintenanceApp\\CarMaintenanceApp\\Services\\CarMaintenanceCommand.cs",
+              "RelativeDocumentMoniker": "CarMaintenanceApp\\Services\\CarMaintenanceCommand.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\CarMaintenanceApp\\CarMaintenanceApp\\Services\\CarMaintenanceCommand.cs",
+              "RelativeToolTip": "CarMaintenanceApp\\Services\\CarMaintenanceCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T08:18:23.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CarMaintenance.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\CarMaintenanceApp\\CarMaintenanceApp\\Services\\CarMaintenance.cs",
+              "RelativeDocumentMoniker": "CarMaintenanceApp\\Services\\CarMaintenance.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\CarMaintenanceApp\\CarMaintenanceApp\\Services\\CarMaintenance.cs",
+              "RelativeToolTip": "CarMaintenanceApp\\Services\\CarMaintenance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T08:16:52.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CarFactory.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\CarMaintenanceApp\\CarMaintenanceApp\\Services\\CarFactory.cs",
+              "RelativeDocumentMoniker": "CarMaintenanceApp\\Services\\CarFactory.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\CarMaintenanceApp\\CarMaintenanceApp\\Services\\CarFactory.cs",
+              "RelativeToolTip": "CarMaintenanceApp\\Services\\CarFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T08:07:13.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SUV.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\CarMaintenanceApp\\CarMaintenanceApp\\Models\\SUV.cs",
+              "RelativeDocumentMoniker": "CarMaintenanceApp\\Models\\SUV.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\CarMaintenanceApp\\CarMaintenanceApp\\Models\\SUV.cs",
+              "RelativeToolTip": "CarMaintenanceApp\\Models\\SUV.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T08:06:49.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Sedan.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\CarMaintenanceApp\\CarMaintenanceApp\\Models\\Sedan.cs",
+              "RelativeDocumentMoniker": "CarMaintenanceApp\\Models\\Sedan.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\CarMaintenanceApp\\CarMaintenanceApp\\Models\\Sedan.cs",
+              "RelativeToolTip": "CarMaintenanceApp\\Models\\Sedan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T08:06:41.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBrandingStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\CarMaintenanceApp\\CarMaintenanceApp\\Services\\IBrandingStrategy.cs",
+              "RelativeDocumentMoniker": "CarMaintenanceApp\\Services\\IBrandingStrategy.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\CarMaintenanceApp\\CarMaintenanceApp\\Services\\IBrandingStrategy.cs",
+              "RelativeToolTip": "CarMaintenanceApp\\Services\\IBrandingStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T08:16:08.132Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

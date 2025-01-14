@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "CarMaintenanceApp.Controllers.CarController",
+    "Method": "PerformMaintenance",
+    "RelativePath": "api/Car/perform-maintenance",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "carType",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
